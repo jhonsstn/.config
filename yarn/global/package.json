@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "create-storybook": "^1.0.0",
+    "create-vite": "^5.1.0",
+    "vtex": "^4.0.5"
+  }
+}
