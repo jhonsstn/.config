@@ -1,12 +1,12 @@
 {
 	"env": "prod",
-	"_nextFeedbackDate": "2024-05-05T16:06:30.607Z",
+	"_nextFeedbackDate": "2025-05-06T13:18:54.114Z",
 	"account": "keydesign",
 	"workspace": "master",
-	"_lastUsedWorkspace": "release2121",
+	"_lastUsedWorkspace": "catalogopoc",
 	"login": "jhon.santana@ed3.com.br",
-	"token": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjE5MzExN0E5RTMzN0IzMDQ1OTQ2REM0NTM1NEExMjI4RTBBQkQ4MEUiLCJ0eXAiOiJqd3QifQ.eyJzdWIiOiJqaG9uLnNhbnRhbmFAZWQzLmNvbS5iciIsImFjY291bnQiOiJrZXlkZXNpZ24iLCJhdWRpZW5jZSI6ImFkbWluIiwic2VzcyI6IjM2NzNjNzQxLTA4ODEtNDllZi1hOTkyLWVmNTJkMDQ0NDlkMCIsImV4cCI6MTcxMjY5OTEzOSwidHlwZSI6InVzZXIiLCJ1c2VySWQiOiIwYjNmNjVlMC01MWI0LTQwZDYtYjNhOC1kMjFhMDZjMWY4ZTEiLCJpYXQiOjE3MTI2MTI3MzksImlzcyI6InRva2VuLWVtaXR0ZXIiLCJqdGkiOiI3ZjdkOWJmYS0wMzkxLTQwNGItYTQ0MS1lNTQ1ZDFhNjIyNjQifQ.VGmAwwWsWplISSoVXTYI07crBuDpP4opzK-jEOt-8YFzZXInB2U8R8Iw0vPO_ychA4alFaiTmG-cBeqA06hOCQ",
-	"_lastUsedAccount": "ed3digital",
+	"token": "eyJhbGciOiJFUzI1NiIsImtpZCI6IkM4M0Y2QjYxMUQ4MzFGN0QzMkY1MjQyOEZFQzlCMjg5MUY1NzY4RTkiLCJ0eXAiOiJqd3QifQ.eyJzdWIiOiJqaG9uLnNhbnRhbmFAZWQzLmNvbS5iciIsImFjY291bnQiOiJrZXlkZXNpZ24iLCJhdWRpZW5jZSI6ImFkbWluIiwic2VzcyI6ImExNjQ1ZWU4LWJhNDUtNDViNy1hY2FhLTU4MTg4ZjZhMTlkZCIsImV4cCI6MTc0MDIzMzU5NiwidHlwZSI6InVzZXIiLCJ1c2VySWQiOiIwYjNmNjVlMC01MWI0LTQwZDYtYjNhOC1kMjFhMDZjMWY4ZTEiLCJpYXQiOjE3NDAxNDcxOTYsImlzUmVwcmVzZW50YXRpdmUiOmZhbHNlLCJpc3MiOiJ0b2tlbi1lbWl0dGVyIiwianRpIjoiODg0Zjk5YWEtMzVhZC00OWViLWI2OTItOWMzN2Q5MmU5NWNjIn0.LfdL3Js-tF7973KjIh1X8kRCtSHqStvqnTocM_2Mj2mmPikmzNuiajrFt8jhG6KnGScIo87RWlcHKZUQ06uOZw",
+	"_lastUsedAccount": "liritty",
 	"_numberOfReactLinks": 2,
 	"_lastLinkReactDate": "2024-02-02T14:49:46.372Z",
 	"apps": {
@@ -25,24 +25,120 @@
 			},
 			"ui-components": {
 				"sticky-host": {
-					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwENDkkESQAEVQVXVA4DBFxXV1RfUx5XUVtSWw5UAwNQHlNGXE4S",
-					"lastUpdated": 1712611852556
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEAEkFSQMAAwcHA18AUV0BA1UKCB5UBFtWDg5SWQ4FHlpCF1Jd",
+					"lastUpdated": 1739808364206
+				}
+			},
+			"atacapet-store-theme": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEBkkESVIMXQxVUwlTAVpVBAUOVB5XBl8DX1sIBwIGHkdYEgxW",
+					"lastUpdated": 1721760179665
+				}
+			},
+			"store-components": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEBkkESVIMXQxVUwlTAVpVBAUOVB5WCltXWg4JA1EHHkREA0MM",
+					"lastUpdated": 1723414024374
+				}
+			},
+			"flex-layout": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEBkkESVIMXQxVUwlTAVpVBAUOVB5WCltXWg4JA1EHHl5GDEwO",
+					"lastUpdated": 1723414474892
+				}
+			},
+			"tabs-layout": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwEND0kESVVWAwEPVFsGUAADA1AAAR5WClsADF1TBwILHk5YUUNd",
+					"lastUpdated": 1721160810765
+				}
+			},
+			"slider-layout": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEBkkESVIMXQxVUwlTAVpVBAUOVB5WCltXWg4JA1EHHgEADAMD",
+					"lastUpdated": 1723414693516
+				}
+			},
+			"menu": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEBkkESVIMXQxVUwlTAVpVBAUOVB5UBg5WD19SBw9UHgZCCkIM",
+					"lastUpdated": 1721744448403
+				}
+			},
+			"search-form": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEBkkESVIMXQxVUwlTAVpVBAUOVB5UBg5WD19SBw9UHgFeE0xd",
+					"lastUpdated": 1721314458746
+				}
+			},
+			"react-app-template": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwEND0kESVVWAwEPVFsGUAADA1AAAR4CB11WDQ8JWVMfCllGCUA=",
+					"lastUpdated": 1720152254228
+				}
+			},
+			"newsletter": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwEND0kESVVWAwEPVFsGUAADA1AAAR5WClsADF1TBwILHk5SCkIc",
+					"lastUpdated": 1721163328788
+				}
+			},
+			"buy-together": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwEND0kESVVWAwEPVFsGUAADA1AAAR4CB11WDQ8JWVMfRVZeE04=",
+					"lastUpdated": 1720726930339
+				}
+			},
+			"product-components": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEBkkESVIMXQxVUwlTAVpVBAUOVB5UBg5WD19SBw9UHlddFwwT",
+					"lastUpdated": 1721760797871
+				}
+			},
+			"wish-list": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwEND0kESVVWAwEPVFsGUAADA1AAAR5WClsADF1TBwILHlZCA1YW",
+					"lastUpdated": 1721147138669
+				}
+			},
+			"shipping-simulator": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwEND0kESVVWAwEPVFsGUAADA1AAAR4CB11WDQ8JWVMfXwIPFVo=",
+					"lastUpdated": 1721226748799
 				}
 			}
 		},
 		"digaspi": {
 			"store-theme": {
 				"sticky-host": {
-					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwENDkkESQAEVQVXVA4DBFxXV1RfUx5XUVtSWw5UAwNQHkJYAFcD",
-					"lastUpdated": 1711462317263
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEAEkFSQMAAwcHA18AUV0BA1UKCB4FUAwBDFoIVgAfX1NaFVA=",
+					"lastUpdated": 1739200753059
+				}
+			},
+			"google-maps": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwEND0kESVVWAwEPVFsGUAADA1AAAR5XVlpWWwFWWAJWHgYCBwwK",
+					"lastUpdated": 1719494323866
+				}
+			},
+			"nfe": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwEND0kESVVWAwEPVFsGUAADA1AAAR5XCg4DWg1UBQIKHgIBCloM",
+					"lastUpdated": 1718806894385
+				}
+			},
+			"atendimento": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwEND0kESVVWAwEPVFsGUAADA1AAAR5XVlpWWwFWWAJWHlpbHFkH",
+					"lastUpdated": 1719435158087
 				}
 			}
 		},
 		"shopluxo": {
 			"store-theme": {
 				"sticky-host": {
-					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwENDkkESQAEVQVXVA4DBFxXV1RfUx5XVgwDXQ1UVlEFHgxGUwJS",
-					"lastUpdated": 1712426133630
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwEND0kESVVWAwEPVFsGUAADA1AAAR5WB18NX18GVg8GHldOB0UH",
+					"lastUpdated": 1715709262237
 				}
 			}
 		},
@@ -57,16 +153,88 @@
 		"keydesign": {
 			"store-theme": {
 				"sticky-host": {
-					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwENDkkESQAEVQVXVA4DBFxXV1RfUx5XUVtSWw5UAwNQHgZFBlcD",
-					"lastUpdated": 1712612764543
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEAEkFSQMAAwcHA18AUV0BA1UKCB5UBFtWDg5SWQ4FHlNEVlcS",
+					"lastUpdated": 1740170116123
+				}
+			},
+			"flex-layout": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEAEkFSQMAAwcHA18AUV0BA1UKCB5UBg8MDgEHAgMfVwJAUE4=",
+					"lastUpdated": 1740084275230
+				}
+			},
+			"slider-layout": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEAEkFSQMAAwcHA18AUV0BA1UKCB5UBg8MDgEHAgMfWFZcD1g=",
+					"lastUpdated": 1740162759175
+				}
+			},
+			"store-components": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEAEkFSQMAAwcHA18AUV0BA1UKCB5UBg8MDgEHAgMfC0ROAwI=",
+					"lastUpdated": 1740160079888
+				}
+			},
+			"menu": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEAEkFSQMAAwcHA18AUV0BA1UKCB5UBVtQDFpTVAIfSUBFUUc=",
+					"lastUpdated": 1739990448563
+				}
+			},
+			"pixel-tailwindcss": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEAEkFSQMAAwcHA18AUV0BA1UKCB5UBg8MDgEHAgMfVAxQA1I=",
+					"lastUpdated": 1739900412612
+				}
+			},
+			"product-summary": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEAEkFSQMAAwcHA18AUV0BA1UKCB5UBg8MDgEHAgMfAQAACkc=",
+					"lastUpdated": 1740155744442
+				}
+			},
+			"search-form": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEAEkFSQMAAwcHA18AUV0BA1UKCB5UBFtWDg5SWQ4FHgNaHgEU",
+					"lastUpdated": 1739981097742
+				}
+			},
+			"newsletter": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEBEkFSQYABwQAVV1dUAoEUgdcCB5WBAFWDw8GVANWHkcBEFwW",
+					"lastUpdated": 1727107438619
+				}
+			},
+			"minicart": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEBEkFSQYABwQAVV1dUAoEUgdcCB4FCw5WDA0FVQAfC0dVD1Y=",
+					"lastUpdated": 1728301428864
+				}
+			},
+			"wish-list": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEA0kESVUGUAFUDgpdU1kHAFMOAx5UC18DDV0EBQ8HHlwCEEYQ",
+					"lastUpdated": 1731019761237
+				}
+			},
+			"product-components": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEA0kESVUGUAFUDgpdU1kHAFMOAx5UC18DDV0EBQ8HHlZdDEcD",
+					"lastUpdated": 1732218906114
 				}
 			}
 		},
 		"vsebrasil": {
 			"vitaminese": {
 				"sticky-host": {
-					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwENDkkESQAEVQVXVA4DBFxXV1RfUx5XUVtSWw5UAwNQHlxUDwZW",
-					"lastUpdated": 1711116543487
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEA0kESVUGUAFUDgpdU1kHAFMOAx5UC18DDV0EBQ8HHkNOEF4I",
+					"lastUpdated": 1733860887895
+				}
+			},
+			"vsebrasil-product-specifications": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEBEkFSQYABwQAVV1dUAoEUgdcCB5XCg8CDQEEVQMLHlBbEEcJ",
+					"lastUpdated": 1728053434835
 				}
 			}
 		},
@@ -82,37 +250,79 @@
 					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwENDkkESQAEVQVXVA4DBFxXV1RfUx5XVgwDXQ1UVlEFHgMDUgIP",
 					"lastUpdated": 1710947066050
 				}
+			},
+			"checkout-ui-settings": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEA0kESVUGUAFUDgpdU1kHAFMOAx5XUV0CD10HWAMEHkUBBlgV",
+					"lastUpdated": 1733427950782
+				}
+			},
+			"checkout-ui-custom": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEAEkESQECVwAGVwBTUwkDA1cNCR5UCw4CDwwEVVUGHlhSCUcG",
+					"lastUpdated": 1734529946280
+				}
 			}
 		},
 		"colab": {
 			"colab-theme": {
 				"sticky-host": {
-					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwENDkkESQAEVQVXVA4DBFxXV1RfUx5XUVtSWw5UAwNQHlZaHAxR",
-					"lastUpdated": 1712333847922
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEAEkFSQMAAwcHA18AUV0BA1UKCB4FUAwBDFoIVgAfW1pFD18=",
+					"lastUpdated": 1738945860753
+				}
+			},
+			"my-account-plugin-custom": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwEND0kESVVWAwEPVFsGUAADA1AAAR5UUQxXXQ5WVwIEHkJCEAAW",
+					"lastUpdated": 1715208403737
+				}
+			},
+			"my-boleto-app": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwEND0kESVVWAwEPVFsGUAADA1AAAR5XC1oDWg1TWFQEHkUDHFAP",
+					"lastUpdated": 1715724952430
+				}
+			},
+			"installment-bill": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEA0kESVUGUAFUDgpdU1kHAFMOAx5UC18DDV0EBQ8HHlNFDkMX",
+					"lastUpdated": 1732729320043
 				}
 			}
 		},
 		"funchal": {
 			"store-theme": {
 				"sticky-host": {
-					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwENDkkESQAEVQVXVA4DBFxXV1RfUx5XUVtSWw5UAwNQHkxaAAAe",
-					"lastUpdated": 1712240021014
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEAEkESQECVwAGVwBTUwkDA1cNCR5WVA0MDF9UBQFUHl9FE05S",
+					"lastUpdated": 1738073161259
+				}
+			},
+			"discount-club": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEAkkESVJWAAcHVABdUAAHUwVcUx5XUF0DDFtWWVMFHl5eAFgW",
+					"lastUpdated": 1730295856124
+				}
+			},
+			"points-program": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEBkkESVIMXQxVUwlTAVpVBAUOVB5WCltXWg4JA1EHHl5HXVMK",
+					"lastUpdated": 1723057205146
 				}
 			}
 		},
 		"candide": {
 			"store-theme": {
 				"sticky-host": {
-					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwENDkkESQAEVQVXVA4DBFxXV1RfUx5XUVtSWw5UAwNQHkVFAFwX",
-					"lastUpdated": 1711468604079
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEAEkFSQMAAwcHA18AUV0BA1UKCB5UBFtWDg5SWQ4FHlZYUw1Q",
+					"lastUpdated": 1739808868131
 				}
 			}
 		},
 		"ionotashoe": {
 			"notashoe-theme": {
 				"sticky-host": {
-					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwENDkkESQAEVQVXVA4DBFxXV1RfUx5XVgwDXQ1UVlEFHkxbFU4c",
-					"lastUpdated": 1712340411916
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwEND0kESVVWAwEPVFsGUAADA1AAAR5WB18NX18GVg8GHgABA1IJ",
+					"lastUpdated": 1716582731940
 				}
 			}
 		},
@@ -127,30 +337,424 @@
 		"liritty": {
 			"store-theme": {
 				"sticky-host": {
-					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwENDkkESQAEVQVXVA4DBFxXV1RfUx5XVgwDXQ1UVlEFHkJaBkwV",
-					"lastUpdated": 1712169244380
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEAEkFSQMAAwcHA18AUV0BA1UKCB5UBVtQDFpTVAIfX1lACUU=",
+					"lastUpdated": 1740057819375
 				}
 			}
 		},
 		"formaturismosandbox": {
 			"formaturismo": {
 				"sticky-host": {
-					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwENDkkESQAEVQVXVA4DBFxXV1RfUx5XUVtSWw5UAwNQHlMDXEYU",
-					"lastUpdated": 1712323535447
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEA0kESVUGUAFUDgpdU1kHAFMOAx5UC18DDV0EBQ8HHkxGE1IK",
+					"lastUpdated": 1733152213240
 				}
 			}
 		},
 		"casadotenista": {
 			"custom-apps": {
 				"sticky-host": {
-					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwENDkkESQAEVQVXVA4DBFxXV1RfUx5XUVtSWw5UAwNQHgNSCAMG",
-					"lastUpdated": 1712261825840
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEAEkESQECVwAGVwBTUwkDA1cNCR5XVA9QAQ4FAgFUHgIOAgFc",
+					"lastUpdated": 1736527097440
 				}
 			},
 			"store-theme": {
 				"sticky-host": {
-					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwENDkkESQAEVQVXVA4DBFxXV1RfUx5XUVtSWw5UAwNQHkdCCl4W",
-					"lastUpdated": 1712322906967
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEAEkESQECVwAGVwBTUwkDA1cNCR5XVA9QAQ4FAgFUHl9cAFZQ",
+					"lastUpdated": 1736261524771
+				}
+			},
+			"checkout-ui-settings": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEAEkESQECVwAGVwBTUwkDA1cNCR5XBA4BAQ5TBQIGHlJYXUZd",
+					"lastUpdated": 1736176834103
+				}
+			}
+		},
+		"shopunihome": {
+			"unihome-theme": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwEND0kESVVWAwEPVFsGUAADA1AAAR5UUQxXXQ5WVwIEHlJCUVNS",
+					"lastUpdated": 1713968846257
+				}
+			}
+		},
+		"upsports": {
+			"store-theme": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEAEkFSQMAAwcHA18AUV0BA1UKCB5UBVtQDFpTVAIfAV8ADAY=",
+					"lastUpdated": 1740058363050
+				}
+			},
+			"order-details-api": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEAEkESQECVwAGVwBTUwkDA1cNCR5UBwADDw0HAg4LHkYCXQwW",
+					"lastUpdated": 1738176568660
+				}
+			}
+		},
+		"petto": {
+			"store-theme": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwEND0kESVVWAwEPVFsGUAADA1AAAR5WB18NX18GVg8GHgZFBwNS",
+					"lastUpdated": 1716213714394
+				}
+			}
+		},
+		"ervik": {
+			"panda-theme": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEBkkESVIMXQxVUwlTAVpVBAUOVB5WCltXWg4JA1EHHkRcAEUS",
+					"lastUpdated": 1723840895580
+				}
+			}
+		},
+		"thomsonreuters": {
+			"points-program": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwEND0kESVVWAwEPVFsGUAADA1AAAR5WClsADF1TBwILHk4EXVlS",
+					"lastUpdated": 1719867096269
+				}
+			}
+		},
+		"atacapet": {
+			"store-theme": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEA0kESVUGUAFUDgpdU1kHAFMOAx5XUV0CD10HWAMEHlMBCV8Q",
+					"lastUpdated": 1732035205806
+				}
+			},
+			"store-components": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEA0kESVUGUAFUDgpdU1kHAFMOAx5UC18DDV0EBQ8HHgxMA1oS",
+					"lastUpdated": 1731951200176
+				}
+			},
+			"flex-layout": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEB0kESVVWBw0PUwpVB1paAQIBBx5XVg1XXwBWVVMHHlxSFlMV",
+					"lastUpdated": 1725985436490
+				}
+			},
+			"slider-layout": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEBkkESVIMXQxVUwlTAVpVBAUOVB5WCltXWg4JA1EHHlNGDA0C",
+					"lastUpdated": 1723731809458
+				}
+			},
+			"menu": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEBEkFSQYABwQAVV1dUAoEUgdcCB5XCg8CDQEEVQMLHgZRCQMO",
+					"lastUpdated": 1727460196689
+				}
+			},
+			"newsletter": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEBkkESVIMXQxVUwlTAVpVBAUOVB5WCltXWg4JA1EHHg1SVlMT",
+					"lastUpdated": 1724078440578
+				}
+			},
+			"product-summary": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEB0kESVVWBw0PUwpVB1paAQIBBx5WVA4BAFsGVQ8KHkYCFwET",
+					"lastUpdated": 1725543213894
+				}
+			},
+			"search-form": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEB0kESVVWBw0PUwpVB1paAQIBBx5WVA4BAFsGVQ8KHlgOHAEO",
+					"lastUpdated": 1725281242270
+				}
+			},
+			"tabs-layout": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEBkkESVIMXQxVUwlTAVpVBAUOVB5UBg5WD19SBw9UHlgCXUMc",
+					"lastUpdated": 1722266206434
+				}
+			},
+			"product-components": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEBUkESQ9TXQcAUAgGUAwEV1JbUh5ZBl8CDQ5WVw5WHgJFUVpc",
+					"lastUpdated": 1728934064161
+				}
+			},
+			"wish-list": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEBkkESVIMXQxVUwlTAVpVBAUOVB5UBg5WD19SBw9UHlYOCVgG",
+					"lastUpdated": 1721767364373
+				}
+			},
+			"pixel-tailwindcss": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEBkkESVIMXQxVUwlTAVpVBAUOVB5UBg5WD19SBw9UHlxCB1MG",
+					"lastUpdated": 1721766441476
+				}
+			},
+			"subscription": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEBEkFSQYABwQAVV1dUAoEUgdcCB5WBAFWDw8GVANWHgZYCkAD",
+					"lastUpdated": 1726839562166
+				}
+			},
+			"minicart": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEB0kESVVWBw0PUwpVB1paAQIBBx5ZB1sDAQFUVQAKHl8CDwAW",
+					"lastUpdated": 1724688891107
+				}
+			},
+			"buy-together": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEB0kESVVWBw0PUwpVB1paAQIBBx5XVg1XXwBWVVMHHgJFDEwX",
+					"lastUpdated": 1725986772766
+				}
+			},
+			"availability-notify": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEB0kESVVWBw0PUwpVB1paAQIBBx5WVA4BAFsGVQ8KHgFeEFlc",
+					"lastUpdated": 1724434299207
+				}
+			}
+		},
+		"iotommyhilfiger": {
+			"tommy-hilfinger-store-theme": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEBEkFSQYABwQAVV1dUAoEUgdcCB5ZB1tWD1sHVw4fSUwDU14=",
+					"lastUpdated": 1726157215406
+				}
+			},
+			"product-components": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEBEkFSQYABwQAVV1dUAoEUgdcCB5ZB1tWD1sHVw4fWVpeDFc=",
+					"lastUpdated": 1726156003551
+				}
+			},
+			"wish-list": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEBkkESVIMXQxVUwlTAVpVBAUOVB5WCltXWg4JA1EHHlJdXUcC",
+					"lastUpdated": 1723234445845
+				}
+			},
+			"availability-notify": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEB0kESVVWBw0PUwpVB1paAQIBBx4DBQAMW11TVxoLUVAPFw==",
+					"lastUpdated": 1725287533109
+				}
+			}
+		},
+		"funkobr": {
+			"store-components": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEAkkESVJWAAcHVABdUAAHUwVcUx5XUF0DDFtWWVMFHlcEFVMe",
+					"lastUpdated": 1730214478820
+				}
+			},
+			"flex-layout": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEBkkESVIMXQxVUwlTAVpVBAUOVB5WCltXWg4JA1EHHkxdBkYM",
+					"lastUpdated": 1723475586106
+				}
+			},
+			"slider-layout": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEB0kESVVWBw0PUwpVB1paAQIBBx5XVg1WXQAFWVUEHgNUCk4G",
+					"lastUpdated": 1725631406500
+				}
+			},
+			"funko-store-theme": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEBkkESVIMXQxVUwlTAVpVBAUOVB5WCltXWg4JA1EHHkJFAlgG",
+					"lastUpdated": 1723559703531
+				}
+			},
+			"tabs-layout": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEBkkESVIMXQxVUwlTAVpVBAUOVB5WCltXWg4JA1EHHlBcAkAP",
+					"lastUpdated": 1723491559169
+				}
+			},
+			"pixel-tailwindcss": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEBkkESVIMXQxVUwlTAVpVBAUOVB5WCltXWg4JA1EHHlpaUw1S",
+					"lastUpdated": 1723491826669
+				}
+			},
+			"product-components": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEA0kESVUGUAFUDgpdU1kHAFMOAx5UC18DDV0EBQ8HHgICA1gX",
+					"lastUpdated": 1732544231858
+				}
+			},
+			"newsletter": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEB0kESVVWBw0PUwpVB1paAQIBBx5XVg1XXwBWVVMHHkVOAk4Q",
+					"lastUpdated": 1725975471881
+				}
+			},
+			"menu": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEBEkFSQYABwQAVV1dUAoEUgdcCB5WBl1SDw1TVgNQHlMPHENQ",
+					"lastUpdated": 1728580726817
+				}
+			},
+			"wish-list": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEB0kESVVWBw0PUwpVB1paAQIBBx4DBQAMW11TVxpUWV9aFw==",
+					"lastUpdated": 1724439251778
+				}
+			},
+			"search-form": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEB0kESVVWBw0PUwpVB1paAQIBBx5XVg1XXwBWVVMHHlNCHl8O",
+					"lastUpdated": 1725897840371
+				}
+			},
+			"product-summary": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEAkkESVJWAAcHVABdUAAHUwVcUx5XUF0DDFtWWVMFHk5eXV4A",
+					"lastUpdated": 1729862671487
+				}
+			},
+			"minicart": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEB0kESVVWBw0PUwpVB1paAQIBBx5XVg1WXQAFWVUEHkIBE1kD",
+					"lastUpdated": 1725392122944
+				}
+			},
+			"store-theme": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEA0kESVUGUAFUDgpdU1kHAFMOAx5XUV0CD10HWAMEHkROFVYC",
+					"lastUpdated": 1733330736713
+				}
+			},
+			"product-quantity": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEB0kESVVWBw0PUwpVB1paAQIBBx5ZB1sDAQFUVQAKHkBHBg0C",
+					"lastUpdated": 1724874124129
+				}
+			},
+			"availability-notify": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEB0kESVVWBw0PUwpVB1paAQIBBx5ZB1sDAQFUVQAKHgECFVxT",
+					"lastUpdated": 1724941485526
+				}
+			},
+			"buy-together": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEB0kESVVWBw0PUwpVB1paAQIBBx4DBQAMW11TVxpfBFdCAg==",
+					"lastUpdated": 1725637224613
+				}
+			}
+		},
+		"tommyhilfiger": {
+			"slider-layout": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEBEkFSQYABwQAVV1dUAoEUgdcCB5WBAFWDw8GVANWHk5HCQMV",
+					"lastUpdated": 1726498236613
+				}
+			},
+			"flex-layout": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEBEkFSQYABwQAVV1dUAoEUgdcCB5WBAFWDw8GVANWHk4BEEBc",
+					"lastUpdated": 1726498800791
+				}
+			},
+			"minicart": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEBEkFSQYABwQAVV1dUAoEUgdcCB5WBAFWDw8GVANWHgZFDF8c",
+					"lastUpdated": 1726499079994
+				}
+			},
+			"search-form": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEBEkFSQYABwQAVV1dUAoEUgdcCB5WBAFWDw8GVANWHkdVXQ0K",
+					"lastUpdated": 1726501440271
+				}
+			},
+			"menu": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEBEkFSQYABwQAVV1dUAoEUgdcCB5WBAFWDw8GVANWHkBHCUAO",
+					"lastUpdated": 1726502717706
+				}
+			},
+			"tommy-hilfinger-store-theme": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEBEkFSQYABwQAVV1dUAoEUgdcCB5ZB1tWD1sHVw4fCl8EUkY=",
+					"lastUpdated": 1726514884987
+				}
+			},
+			"wish-list": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEBEkFSQYABwQAVV1dUAoEUgdcCB5WBAFWDw8GVANWHlAOD1dS",
+					"lastUpdated": 1726508755036
+				}
+			},
+			"store-theme": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEBEkFSQYABwQAVV1dUAoEUgdcCB5ZB1tWD1sHVw4fAQBSHlo=",
+					"lastUpdated": 1726513243956
+				}
+			}
+		},
+		"centercorhospitalar": {
+			"store-theme": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEAEkESQECVwAGVwBTUwkDA1cNCR5UBwADDw0HAg4LHkJVUQ0W",
+					"lastUpdated": 1738254682638
+				}
+			}
+		},
+		"worldfree": {
+			"pixel-tailwindcss": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEAEkESQECVwAGVwBTUwkDA1cNCR5XBw5XAQBTA1RQHgwPFEJc",
+					"lastUpdated": 1737131862810
+				}
+			},
+			"product-summary": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEAEkFSQMAAwcHA18AUV0BA1UKCB4FUAwBDFoIVgAfXQYEHEI=",
+					"lastUpdated": 1738954561916
+				}
+			},
+			"tabs-layout": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEAEkESQECVwAGVwBTUwkDA1cNCR5UBwADDw0HAg4LHlxSDg0e",
+					"lastUpdated": 1738853654032
+				}
+			},
+			"slider-layout": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEAEkFSQMAAwcHA18AUV0BA1UKCB4FUAwBDFoIVgAfUFkECQI=",
+					"lastUpdated": 1739203456757
+				}
+			},
+			"store-components": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEAEkFSQMAAwcHA18AUV0BA1UKCB4FUAwBDFoIVgAfBE5QVk4=",
+					"lastUpdated": 1739207235098
+				}
+			},
+			"menu": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEAEkFSQMAAwcHA18AUV0BA1UKCB5UBg8MDgEHAgMfCwJdEFA=",
+					"lastUpdated": 1739987969820
+				}
+			},
+			"store-theme": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEAEkFSQMAAwcHA18AUV0BA1UKCB5YBgEADlsJB1UfWVhaVgM=",
+					"lastUpdated": 1739286923852
+				}
+			},
+			"flex-layout": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEAEkESQECVwAGVwBTUwkDA1cNCR5UBwADDw0HAg4LHg1BFA0K",
+					"lastUpdated": 1738851454916
+				}
+			},
+			"wish-list": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwAEAEkESQECVwAGVwBTUwkDA1cNCR5UBwADDw0HAg4LHgJACVoX",
+					"lastUpdated": 1738096056756
 				}
 			}
 		}

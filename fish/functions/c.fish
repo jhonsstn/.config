@@ -1,3 +1,3 @@
-function c --wraps='code .' --description 'alias c=code .'
-  code . $argv; 
+function c --wraps='code .' --wraps='code-insiders .' --description 'alias c=code-insiders .'
+  code-insiders . $argv; 
 end

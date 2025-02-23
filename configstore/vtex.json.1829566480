@@ -1,0 +1,186 @@
+{
+	"env": "prod",
+	"_nextFeedbackDate": "2024-08-06T13:08:57.460Z",
+	"account": "formaturismosandbox",
+	"workspace": "fto489",
+	"_lastUsedWorkspace": "master",
+	"login": "jhon.santana@ed3.com.br",
+	"token": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjAxQjcwMzUyMjU2ODdDQTUyODBBOUI5OTAyRDFCODE0M0UyMUQxMUYiLCJ0eXAiOiJqd3QifQ.eyJzdWIiOiJqaG9uLnNhbnRhbmFAZWQzLmNvbS5iciIsImFjY291bnQiOiJmb3JtYXR1cmlzbW9zYW5kYm94IiwiYXVkaWVuY2UiOiJhZG1pbiIsInNlc3MiOiI4NDAzOTAxNC1hMDNkLTQxZGQtYjUyMy1jNzcyMTRjY2FmMzAiLCJleHAiOjE3MTU2OTQxNjAsInR5cGUiOiJ1c2VyIiwidXNlcklkIjoiMGIzZjY1ZTAtNTFiNC00MGQ2LWIzYTgtZDIxYTA2YzFmOGUxIiwiaWF0IjoxNzE1NjA3NzYwLCJpc3MiOiJ0b2tlbi1lbWl0dGVyIiwianRpIjoiNWM2ZDY3YjQtMThlOC00NTY1LWJkMjktNjlkZTVjOTZlZTU1In0.sakF48ytmHpj21YqMmdAyF5gDBvtzGUh-t11CvpyPy8mvfts9sw98vuwUMM4U9uGPX7dlmvG8eYvhKTO0yAfDQ",
+	"_lastUsedAccount": "shopluxo",
+	"_numberOfReactLinks": 2,
+	"_lastLinkReactDate": "2024-02-02T14:49:46.372Z",
+	"apps": {
+		"ed3digital": {
+			"base-theme": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwENAUkESQJXVgYFV10GBwtaAFIJVB5UCwwDAA8GV1QFHgIPU1YQ",
+					"lastUpdated": 1707244764132
+				}
+			},
+			"shopluxo-store-theme": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwENDkkESQAEVQVXVA4DBFxXV1RfUx5XVgwDXQ1UVlEFHgFUUVII",
+					"lastUpdated": 1711131435884
+				}
+			},
+			"ui-components": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwEND0kESVVWAwEPVFsGUAADA1AAAR5XC1oDWg1TWFQEHkBVDkUK",
+					"lastUpdated": 1715279649024
+				}
+			}
+		},
+		"digaspi": {
+			"store-theme": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwEND0kESVVWAwEPVFsGUAADA1AAAR5UUQxXXQ5WVwIEHgZYUkAA",
+					"lastUpdated": 1715268115956
+				}
+			}
+		},
+		"shopluxo": {
+			"store-theme": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwEND0kESVVWAwEPVFsGUAADA1AAAR5XC1oDWg1TWFQEHgFBB1hQ",
+					"lastUpdated": 1715607507343
+				}
+			}
+		},
+		"slowbeauty": {
+			"slowbeauty-theme": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwENDkkESQAEVQVXVA4DBFxXV1RfUx5ZBgxQXVsGAg4FHlJUE0UW",
+					"lastUpdated": 1709656860002
+				}
+			}
+		},
+		"keydesign": {
+			"store-theme": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwEND0kESVVWAwEPVFsGUAADA1AAAR4DCloCDAAGBwEfBEVYUkM=",
+					"lastUpdated": 1715115930111
+				}
+			}
+		},
+		"vsebrasil": {
+			"vitaminese": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwENDkkESQAEVQVXVA4DBFxXV1RfUx5XUVtSWw5UAwNQHlxUDwZW",
+					"lastUpdated": 1711116543487
+				}
+			}
+		},
+		"vtex": {
+			"minimumtheme": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwENDkkESQAEVQVXVA4DBFxXV1RfUx5XVgwDXQ1UVlEFHgBEUFoT",
+					"lastUpdated": 1710946602267
+				}
+			},
+			"store-theme": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwENDkkESQAEVQVXVA4DBFxXV1RfUx5XVgwDXQ1UVlEFHgMDUgIP",
+					"lastUpdated": 1710947066050
+				}
+			}
+		},
+		"colab": {
+			"colab-theme": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwEND0kESVVWAwEPVFsGUAADA1AAAR5XUA8BDw1WVgMHHlhYXUIG",
+					"lastUpdated": 1715287639084
+				}
+			},
+			"my-account-plugin-custom": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwEND0kESVVWAwEPVFsGUAADA1AAAR5UUQxXXQ5WVwIEHkJCEAAW",
+					"lastUpdated": 1715208403737
+				}
+			},
+			"my-boleto-app": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwEND0kESVVWAwEPVFsGUAADA1AAAR5UUQxXXQ5WVwIEHgJQF1AC",
+					"lastUpdated": 1715208587311
+				}
+			}
+		},
+		"funchal": {
+			"store-theme": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwEND0kESVVWAwEPVFsGUAADA1AAAR5XC1oDWg1TWFQEHkBdXEMc",
+					"lastUpdated": 1715283076691
+				}
+			}
+		},
+		"candide": {
+			"store-theme": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwENDkkESQAEVQVXVA4DBFxXV1RfUx5XUVtSWw5UAwNQHlBCCERR",
+					"lastUpdated": 1713215455007
+				}
+			}
+		},
+		"ionotashoe": {
+			"notashoe-theme": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwEND0kESVVWAwEPVFsGUAADA1AAAR5UUQxXXQ5WVwIEHlhCEF4G",
+					"lastUpdated": 1714401112146
+				}
+			}
+		},
+		"creamy": {
+			"store-theme-io": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwENDkkESQAEVQVXVA4DBFxXV1RfUx5XUVtSWw5UAwNQHgBMB0UM",
+					"lastUpdated": 1711544829576
+				}
+			}
+		},
+		"liritty": {
+			"store-theme": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwEND0kESVVWAwEPVFsGUAADA1AAAR5UUQxXXQ5WVwIEHkBaF1JW",
+					"lastUpdated": 1715003865981
+				}
+			}
+		},
+		"formaturismosandbox": {
+			"formaturismo": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwEND0kESVVWAwEPVFsGUAADA1AAAR5ZB1tXDAFUV1QfC1BcUQA=",
+					"lastUpdated": 1715610965413
+				}
+			}
+		},
+		"casadotenista": {
+			"custom-apps": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwENDkkESQAEVQVXVA4DBFxXV1RfUx5XUVtSWw5UAwNQHgNSCAMG",
+					"lastUpdated": 1712261825840
+				}
+			},
+			"store-theme": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwENDkkESQAEVQVXVA4DBFxXV1RfUx5XUVtSWw5UAwNQHkdCCl4W",
+					"lastUpdated": 1712322906967
+				}
+			}
+		},
+		"shopunihome": {
+			"unihome-theme": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwEND0kESVVWAwEPVFsGUAADA1AAAR5UUQxXXQ5WVwIEHlJCUVNS",
+					"lastUpdated": 1713968846257
+				}
+			}
+		},
+		"upsports": {
+			"store-theme": {
+				"sticky-host": {
+					"stickyHost": "ExFdGkgBTFlfBVdLGVFMUkwHHwEND0kESVVWAwEPVFsGUAADA1AAAR5XC1oDWg1TWFQEHlpdEkwV",
+					"lastUpdated": 1715280739550
+				}
+			}
+		}
+	}
+}
